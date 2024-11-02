@@ -1,7 +1,7 @@
 # Atliq Hospitality Analysis (Trends and Recommendations)
 
 # Atliq Reservation System   
-This analysis delves into reservation trends and performance metrics within the Atliq Hospitality system. Key areas explored include revenue generation, property performance, peak booking periods, and cancellation rates.  
+This analysis delves into reservation trends and performance metrics within the Atliq Hospitality system. Key areas explored include revenue generation, property performance, peak booking periods, and cancellation rates. Kindly view the visualisation [HERE](https://app.powerbi.com/groups/me/reports/dc361930-fe7c-4621-8d87-45ac3647fcfd/ReportSection0fb516510075a3b3e0dd?experience=power-bi)  
 
 # Revenue and Property Performance
 
