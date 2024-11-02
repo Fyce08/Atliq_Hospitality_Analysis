@@ -25,10 +25,10 @@ This analysis delves into reservation trends and performance metrics within the 
 
 **Targeted Marketing Campaigns:** Focus marketing efforts on high-revenue generating locations like Mumbai and capitalize on peak booking periods like Week 24.
 
-**Property Optimization:** Analyze factors contributing to Atliq Exotica's success and implement similar strategies across other properties to improve revenue and occupancy rates.
+**Property Optimization:** Analyse factors contributing to Atliq Exotica's success and implement similar strategies across other properties to improve revenue and occupancy rates.
 
 **Cancellation Rate Reduction:** Investigate reasons behind cancellations and develop strategies to mitigate them. This could involve offering flexible booking options or implementing cancellation fees.
 
-**Optimizing Elite Room Bookings:** Analyze reasons behind high cancellation rates for Elite rooms and develop targeted promotions or loyalty programs to encourage confirmed bookings.
+**Optimizing Elite Room Bookings:** Analyse reasons behind high cancellation rates for Elite rooms and develop targeted promotions or loyalty programs to encourage confirmed bookings.
 
 By implementing these recommendations, Atliq can optimize its reservation system, maximize revenue generation, and enhance guest satisfaction.
